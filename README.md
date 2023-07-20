@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://astriamedia.in)
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastava</h1>
 <h3 align="center">Web/Software Developer | Python</h3>
-<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="right" width="400">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky12651&label=Profile%20views&color=0e75b6&style=flat" alt="lucky12651" /> </p>
 
