@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://astriamedia.in)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://webwisemedia.in)
 <h1 align="center">Hi 👋, I'm Vaibhav Srivastava</h1>
 <h3 align="center">Web/Software Developer | Python</h3>
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400">
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://lucky12651.github.io/blog/](https://lucky12651.github.io/blog/)
 
-- 💬 Ask me about **Python, Firebase, Bootstrap, **
+- 💬 Ask me about **Python, Firebase, Bootstrap **
 
 - 📫 How to reach me **vkluckymgs@gmail.com**
 
