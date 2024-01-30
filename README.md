@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/VAlBHAV_" target="blank"><img src="https://img.shields.io/twitter/follow/VAlBHAV_?logo=twitter&style=for-the-badge" alt="VAlBHAV_" /></a> </p>
 
-- 🔭 I’m currently working on **Automation**
+- 🔭 I’m currently working on **Neural Network**
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://lucky12651.github.io/blog/](https://lucky12651.github.io/blog/)
-
-- 💬 Ask me about **Python, Firebase, Bootstrap **
+- 💬 Ask me about **CLOUD COMPUTING**
 
 - 📫 How to reach me **vkluckymgs@gmail.com**
 
