@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Neural Network**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Automation**
 
-- 💬 Ask me about **CLOUD COMPUTING**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **vkluckymgs@gmail.com**
 
