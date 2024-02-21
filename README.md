@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lucky12651&count_private=true&show_icons=true&theme=noctis_minimus" alt="lucky12651" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky12651&show_icons=true&locale=en" alt="lucky12651" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky12651&layout=compact&theme=noctis_minimus" alt="lucky12651" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky12651&" alt="lucky12651" /></p>
 
