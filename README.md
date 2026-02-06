@@ -28,7 +28,7 @@
 
 ```yaml
 name: Vaibhav Srivastava
-located_in: India
+located_in: Lucknow, Uttar Pradesh, India
 current_focus: Neural Network Based Systems
 learning: Automation & DevOps
 interests: [Cloud Computing, Backend Development, AI/ML]
@@ -123,18 +123,20 @@ currently_working_on:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky12651&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucky12651&theme=radical" width="95%" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Achievements
+<!-- GitHub Achievements -->
+## 🏆 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucky12651&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucky12651&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucky12651&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucky12651&theme=radical" width="32%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
