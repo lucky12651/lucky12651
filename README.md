@@ -28,7 +28,7 @@
 
 ```yaml
 name: Vaibhav Srivastava
-located_in: Lucknow, Uttar Pradesh, India
+located_in: India
 current_focus: Neural Network Based Systems
 learning: Automation & DevOps
 interests: [Cloud Computing, Backend Development, AI/ML]
