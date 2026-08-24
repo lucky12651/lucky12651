@@ -1,242 +1,170 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaibhav%20Srivastava&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Web%20Developer%20|%20Python%20Enthusiast%20|%20Cloud%20Explorer&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaibhav%20Srivastava&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20Cloud%20%26%20AI&descAlignY=55&descAlign=50" alt="header"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BDBF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Neural+Network+Enthusiast+%F0%9F%A7%A0;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=3BDBF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Cloud+%26+AI+Systems+%E2%98%81%EF%B8%8F;Python+%7C+React+%7C+Node.js+%7C+Flutter;Open+to+Opportunities+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=lucky12651&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=lucky12651&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
-<!-- Social Badges with Hover Effects -->
-<p>
-  <a href="https://twitter.com/VAlBHAV_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/vaibhav-srivastava-63684477/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/vaibhav_fall"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:vkluckymgs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<br/>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/VAlBHAV_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-srivastava-63684477/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaibhav_fall)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkluckymgs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucky12651)
 
 </div>
 
-<br>
+---
 
-<!-- About Me Section with Cool Design -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## About Me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
+Hey there! I'm **Vaibhav Srivastava**, a full-stack developer based in **Noida, India**.
+
+I build end-to-end products — from polished React/Next.js frontends to Python/Node backends, cloud deployment, and automation. Lately I've been diving deeper into **AI/ML**, **DevOps**, and self-hosted developer platforms.
 
 ```yaml
 name: Vaibhav Srivastava
-located_in: India
-current_focus: Neural Network Based Systems
-learning: Automation & DevOps
-interests: [Cloud Computing, Backend Development, AI/ML]
+location: Noida, India
+focus: Full-Stack · Cloud · AI/ML · Automation
+stack: [Python, JavaScript/TypeScript, React, Node.js, Flutter, FastAPI]
 email: vkluckymgs@gmail.com
-
-fields_of_expertise:
-  - Python Development
-  - Backend Architecture
-  - Cloud Deployment
-  - System Automation
-  
-currently_working_on: 
-  - Building Neural Network Systems 🧠
-  - Exploring Cloud Infrastructure ☁️
-  - Automating Workflows 🤖
+status: Open to opportunities & collaborations
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+## Featured Projects
 
-<!-- Tech Stack Section -->
-## 🛠️ My Tech Arsenal
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| **[CoinCloud](https://github.com/lucky12651/CoinCloud)** | Multi-chain crypto wallet (BTC, LTC, ETH) | React · FastAPI · PostgreSQL |
+| **[WireFringe](https://github.com/lucky12651/WireFringe)** | Modern blogging platform with RBAC admin & CMS | Next.js · FastAPI · PostgreSQL |
+| **[Dailybugle](https://github.com/lucky12651/Dailybugle)** | URL shortener with analytics & custom links | Node.js · React · PostgreSQL |
+| **[Compiler](https://github.com/lucky12651/Compiler)** | Online code compiler (Python, Java, C++, C) | Flask · Python |
+| **[Amizone-bot](https://github.com/lucky12651/Amizone-bot)** | Telegram bot for attendance, exams & results | Python · Telegram API · Firebase |
+| **[Irctc_Automation](https://github.com/lucky12651/Irctc_Automation)** | IRCTC train search & booking automation | Python · Selenium · Vision API |
+
+<p align="center">
+  <a href="https://github.com/lucky12651?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/>
+  </a>
+</p>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+**Languages**
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=couchdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+**Frontend & Mobile**
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🤖 AI/ML & Tools
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud, DevOps & AI**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucky12651&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky12651&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucky12651&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky12651&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky12651&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky12651&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucky12651&theme=radical" width="95%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucky12651&theme=tokyonight" width="95%" alt="Contribution activity"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-
-<!-- GitHub Achievements -->
-## 🏆 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucky12651&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucky12651&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucky12651&theme=radical" width="32%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Current Projects Section -->
-## 🚀 Current Focus
-
-<div align="center">
+## Currently Exploring
 
 ```mermaid
 mindmap
-  root((Vaibhav))
-    Neural Networks
-      Deep Learning
-      Model Training
-      Optimization
-    Cloud Computing
-      AWS Services
-      Azure Deployment
-      Infrastructure
-    Automation
-      DevOps Pipeline
+  root((Focus Areas))
+    Full-Stack Apps
+      React / Next.js
+      FastAPI / Node
+      PostgreSQL
+    Cloud & DevOps
+      Docker
+      AWS / Azure
       CI/CD
-      Scripting
-    Backend Dev
-      API Design
-      Database
-      Scalability
+    AI / ML
+      Neural Networks
+      Automation Agents
+    Developer Tools
+      Self-hosted Deploy
+      Productivity Bots
 ```
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Quote Section -->
-## 💭 Dev Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Fun Section -->
-## 🎯 When I'm Not Coding...
+## Connect With Me
 
 <div align="center">
 
-```javascript
-const vaibhav = {
-    code: ["Python", "JavaScript", "Java", "C++"],
-    askMeAbout: ["web dev", "cloud", "neural networks", "automation"],
-    technologies: {
-        backEnd: ["Node.js", "Python", "Express"],
-        frontEnd: ["React", "Vue.js", "Bootstrap"],
-        cloud: ["AWS", "Azure", "Heroku"],
-        databases: ["MySQL", "Firebase", "MongoDB", "CouchDB"],
-        devOps: ["Docker", "Kubernetes", "Git", "Linux"],
-        misc: ["TensorFlow", "PyTorch", "scikit-learn"]
-    },
-    currentFocus: "Building Neural Network Systems",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+I'm always open to interesting projects, collaborations, and opportunities.
+
+**[LinkedIn](https://www.linkedin.com/in/vaibhav-srivastava-63684477/)** · **[Twitter / X](https://twitter.com/VAlBHAV_)** · **[Email](mailto:vkluckymgs@gmail.com)** · **[GitHub](https://github.com/lucky12651)**
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/lucky12651/lucky12651/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Support Section -->
-## 💖 Support My Work
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 <div align="center">
 
-If you like my work, consider giving a ⭐ to my repositories!
-
-<a href="https://www.buymeacoffee.com/vaibhavsrivastava" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a>
-
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucky12651/lucky12651/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<div align="center">
-  
-### ⭐ Show some ❤️ by starring repositories you find interesting!
+### Thanks for visiting — star a repo if you find something useful!
 
 </div>
