@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Vaibhav%20Srivastava&fontSize=42&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20Cloud%20%26%20AI&descAlignY=55&descAlign=50)
+![header](./assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=3BDBF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Cloud+%26+AI+Systems+%E2%98%81%EF%B8%8F;Python+%7C+React+%7C+Node.js+%7C+Flutter;Open+to+Opportunities+%F0%9F%92%A1)](https://git.io/typing-svg)
 
@@ -159,7 +159,7 @@ I'm always open to interesting projects, collaborations, and opportunities.
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer)
+![footer](./assets/footer.svg)
 
 <div align="center">
 
