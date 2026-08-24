@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Vaibhav Srivastava — Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="45%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+
+  <!-- Static wave layers (no SMIL / CSS animation — GitHub camo friendly) -->
+  <path fill="url(#wave1)" d="M0 150 C 150 120, 300 180, 450 150 S 750 120, 900 155 S 1100 180, 1200 145 L 1200 240 L 0 240 Z"/>
+  <path fill="url(#wave2)" d="M0 175 C 200 150, 350 200, 550 170 S 850 145, 1050 180 S 1150 195, 1200 170 L 1200 240 L 0 240 Z"/>
+
+  <text x="600" y="95" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Vaibhav Srivastava</text>
+  <text x="600" y="140" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500">Full-Stack Developer  |  Python  |  React  |  Cloud &amp; AI</text>
+</svg>
