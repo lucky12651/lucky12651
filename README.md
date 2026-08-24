@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./assets/header.svg)
+![header](https://raw.githubusercontent.com/lucky12651/lucky12651/main/assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=3BDBF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Cloud+%26+AI+Systems+%E2%98%81%EF%B8%8F;Python+%7C+React+%7C+Node.js+%7C+Flutter;Open+to+Opportunities+%F0%9F%92%A1)](https://git.io/typing-svg)
 
@@ -159,7 +159,7 @@ I'm always open to interesting projects, collaborations, and opportunities.
 
 </div>
 
-![footer](./assets/footer.svg)
+![footer](https://raw.githubusercontent.com/lucky12651/lucky12651/main/assets/footer.svg)
 
 <div align="center">
 
