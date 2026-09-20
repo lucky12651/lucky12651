@@ -37,10 +37,10 @@ Based on what I actually ship in my repositories:
 
 | Project | Description |
 |:--------|:------------|
-| **[CoinCloud](https://github.com/lucky12651/CoinCloud)** | Multi-chain crypto wallet — React, FastAPI, PostgreSQL |
+| **[Piramid](https://github.com/lucky12651/piramid)** | Multi-chain crypto wallet — React, FastAPI, PostgreSQL |
 | **[WireFringe](https://github.com/lucky12651/WireFringe)** | Blogging platform — Next.js, FastAPI, PostgreSQL |
 | **[Dailybugle](https://github.com/lucky12651/Dailybugle)** | URL shortener with analytics — Node.js, React, PostgreSQL |
-| **[Compiler](https://github.com/lucky12651/Compiler)** | Online code compiler — Flask (Python, Java, C++, C) |
+| **[Codeon(https://github.com/lucky12651/CODEON)** | Online code compiler — Flask (Python, Java, C++, C) |
 | **[Amizone-bot](https://github.com/lucky12651/Amizone-bot)** | Telegram bot for attendance & results — Python |
 | **[Irctc_Automation](https://github.com/lucky12651/Irctc_Automation)** | IRCTC booking automation — Python, Selenium |
 
